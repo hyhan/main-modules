@@ -1,0 +1,3 @@
+[submodule "star-client-portal"]
+	path = star-client-portal
+	url = git@bitbucket.org:vantagefxcrm/star-client-portal.git
