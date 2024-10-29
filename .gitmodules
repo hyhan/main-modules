@@ -1,3 +1,6 @@
-[submodule "star-client-portal"]
-	path = star-client-portal
+[submodule "apps/star-ibp"]
+	path = apps/star-ibp
+	url = git@bitbucket.org:vantagefxcrm/star-ib-portal.git
+[submodule "apps/star-cp"]
+	path = apps/star-cp
 	url = git@bitbucket.org:vantagefxcrm/star-client-portal.git
